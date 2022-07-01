@@ -28,4 +28,19 @@
   margin: 0 50px 50px 50px;
  }
 
+.col img{
+  width:100%;
+  height: 320px;
+}
+
+.col .card{
+  border:solid 1px rgba(0,0,0,.125);
+  border-radius: 0.25rem;
+}
+
+.row{
+  margin: 0 50px 50px 50px;
+}
+
+
 
