@@ -1,0 +1,31 @@
+.jumbotron {
+ height: 500px;
+ background-image: url("img/pexels-matt-hardy-1533729.jpg");
+ /* Centre l'image et met la bien sur tous les écrans */
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ }
+
+ .lead {
+  color: white;
+ }
+
+ .card img{
+  margin: auto;
+  width:100px;
+ }
+
+ .card-text{
+  text-align: justify;
+ }
+
+ .card{
+  border : none;
+ }
+
+ .card-group{
+  margin: 0 50px 50px 50px;
+ }
+
+
